@@ -1,4 +1,4 @@
-# Below widgets will have a rectangle box with the following text on it: code, pick Markdown by clicking on it for all the lines written in OUTPUT
+#Write on Jupyter python 3 file
 #1) input:
 print('''
 I am akshen,
